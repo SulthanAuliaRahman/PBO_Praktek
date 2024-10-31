@@ -1,7 +1,6 @@
-
 import com.polban.JTK.Sales.*;
 
-public class Soal1 {
+public class Soal3 {
     public static void main(String[] args) {
         Product Royco = new Product("Royco", 5000, 10);
         Sales penjualan_micin = new Sales(Royco);

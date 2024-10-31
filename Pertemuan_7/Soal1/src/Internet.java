@@ -1,0 +1,5 @@
+
+
+interface Internet {
+    void wifi();
+}
